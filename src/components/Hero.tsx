@@ -1,4 +1,3 @@
-
 import NavBar from "./NavBar";
 import FeatureCard from "./FeatureCard";
 import { Link } from "react-router-dom";
@@ -54,24 +53,24 @@ const Hero = () => {
           
           <div className="grid md:grid-cols-4 gap-8">
             <FeatureCard
-              icon="/placeholder.svg"
-              title="What Recruiters Actually Look For"
-              description=""
+              icon="/lovable-uploads/09f9f5f2-7679-43b8-a911-8199358fd7ca.png"
+              title="Manual Crafting Excellence"
+              description="We carefully write and review each resume by hand"
             />
             <FeatureCard
-              icon="/placeholder.svg"
-              title="How Hiring Managers Make Decisions In 6 Seconds Or Less"
-              description=""
+              icon="/lovable-uploads/815a78b1-9a53-41bc-8214-f2f339dc09f4.png"
+              title="5-Star Reviews"
+              description="Consistently rated excellent by our satisfied clients"
             />
             <FeatureCard
-              icon="/placeholder.svg"
-              title="How ATS Software Reads And Ranks Resumes"
-              description=""
+              icon="/lovable-uploads/9f11442a-e866-4039-a561-37ba7f29edfd.png"
+              title="Expert Career Guidance"
+              description="Professional advice for your career advancement"
             />
             <FeatureCard
-              icon="/placeholder.svg"
-              title="How To Turn Your Experience Into Value-Driven Impact Statements"
-              description=""
+              icon="/lovable-uploads/8868f6ee-aa80-4865-836a-e46cbbb514b7.png"
+              title="Proven Track Record"
+              description="Helping candidates achieve their career goals"
             />
           </div>
         </div>
