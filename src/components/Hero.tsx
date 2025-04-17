@@ -36,8 +36,8 @@ const Hero = () => {
           </div>
           <div className="relative">
             <img 
-              src="/lovable-uploads/49e333bd-41b5-4cd4-bade-c885c94205c0.png" 
-              alt="Person thinking with AI elements" 
+              src="/lovable-uploads/577d7f6d-56ea-4ef0-8e8b-862a7b0eb5c8.png" 
+              alt="Person writing notes and thinking creatively" 
               className="w-full"
             />
           </div>
